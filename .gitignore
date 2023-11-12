@@ -1,0 +1,6 @@
+venv
+TOKEN.env
+issues.json
+banned_users.json
+cogs/issues.json
+*.json
